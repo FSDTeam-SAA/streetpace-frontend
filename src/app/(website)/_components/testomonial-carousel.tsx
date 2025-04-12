@@ -77,7 +77,7 @@ export default function TestimonialsCarousel() {
                         <p className="text-gray-500">{testimonial.location}</p>
                       </div>
                     </div>
-                    <p className="text-gray-700 mb-4">"{testimonial.text}"</p>
+                    <p className="text-gray-700 mb-4">&apos;{testimonial.text}&apos;</p>
                     <div className="flex">
                       {[...Array(testimonial.rating)].map((_, i) => (
                         <Star

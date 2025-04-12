@@ -7,9 +7,7 @@ import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import {
   Carousel,
   CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
+  CarouselItem
 } from "@/components/ui/carousel";
 
 export default function ServicesCarousel() {
