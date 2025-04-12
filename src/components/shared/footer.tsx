@@ -24,9 +24,9 @@ export default function Footer() {
               />
             </div>
             <p className="text-sm">
-              "Connecting hearts through meaningful dedications, fostering
+            &apos;Connecting hearts through meaningful dedications, fostering
               deeper bonds, creating lasting memories, and celebrating the
-              beauty of shared emotions."
+              beauty of shared emotions.&apos;
             </p>
           </div>
 

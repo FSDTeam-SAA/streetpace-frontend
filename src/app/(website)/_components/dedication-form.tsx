@@ -18,7 +18,6 @@ import {
 } from "@/components/ui/form";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import Link from "next/link";
 
 const formSchema = z.object({
   fullName: z.string().min(2, { message: "Full name is required" }),
