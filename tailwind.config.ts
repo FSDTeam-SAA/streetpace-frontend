@@ -58,7 +58,8 @@ const config: Config = {
   		}
   	},
   	container: {
-  		center: true,
+			center: true,
+			
   		screens: {
   			sm: '640px',
   			md: '768px',
