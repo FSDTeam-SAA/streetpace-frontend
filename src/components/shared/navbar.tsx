@@ -17,7 +17,7 @@ import {
 const navItems = [
   { name: "Home", path: "/" },
   { name: "Services", path: "/services" },
-  { name: "Blog", path: "/blog" },
+  { name: "Schedule Dedication", path: "/schedule-dedication" },
   { name: "Contract", path: "/contract" },
   { name: "Payment", path: "/payment" },
 ];
